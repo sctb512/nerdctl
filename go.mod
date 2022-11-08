@@ -169,6 +169,9 @@ require (
 )
 
 require (
+	github.com/containerd/stargz-snapshotter/cmd v0.12.1 // indirect
+	github.com/moby/sys/symlink v0.2.0 // indirect
+	github.com/rs/xid v1.4.0 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
 	golang.org/x/tools v0.1.12 // indirect
 )
